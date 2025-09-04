@@ -1,44 +1,56 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rishav Roshan</h1>
-<h3 align="center">Data Analyst & AI/ML Enthusiast | Passionate about turning data into insights and building intelligent systems</h3>
+<h3 align="center">🚀 Data Analyst & AI/ML Enthusiast | Turning Data into Insights & AI into Impact</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rish200&label=Profile%20Views&color=0e75b6&style=flat" alt="Rish200" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 AI & ML Engineering student at **Nitte Meenakshi Institute of Technology, Bengaluru**  
-- 📊 Skilled in **Python, SQL, and Power BI**, with experience in uncovering actionable insights from large datasets  
-- 🤖 Research experience at **IISc Bengaluru** in **Social Robotics & Human-Robot Interaction**  
-- 💡 Strong interest in combining **AI, NLP, and Computer Vision** to solve real-world problems  
-- 🌱 Currently exploring **Agentic AI** and **Generative AI applications**  
+## 🎯 About Me
+- 🎓 AI & ML Engineering student at **NMIT Bengaluru**  
+- 🤖 Research Intern at **IISc Bengaluru** in Social Robotics & Human-Robot Interaction  
+- 📊 Skilled in **Python, SQL, Power BI, and Machine Learning**  
+- 🌱 Exploring **Agentic AI, Generative AI, and Deep Learning**  
+- 💡 Love building projects that mix **AI + Creativity + Data**  
 
 ---
 
-## 🏢 Experience
-- **Research Intern – IISc Bengaluru (Apr 2025 – Sep 2025)**  
-  Conducted data analysis & literature reviews to design frameworks in Human-Robot Interaction.  
+## 🛠️ Tech Stack
+<p align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- **Data Analyst Trainee – Med TourEasy (Feb 2025 – Mar 2025)**  
-  Analyzed 500K+ healthcare records using Python & Pandas, boosting diagnostic model accuracy by **15%**.  
-
----
-
-## 🛠️ Projects
-- 📊 **[Online Courses Analysis Dashboard](https://github.com/Rish200/Data-Analysis)** – Built a Power BI dashboard analyzing engagement & skill trends for an EdTech startup.  
-- 🐱🐶 **[ML & Computer Vision Portfolio](https://github.com/Rish200/MyMLCVPortfolio)** –  
-  - SVM model (90% accuracy) for cat vs. dog classification  
-  - K-Means clustering → 20% cost reduction in marketing  
-  - Real-time hand gesture recognition with OpenCV + CNN  
-  - Regression model for house price prediction (MAE: 3.5%)  
-- 🎭 **[Emotion Based Poetry Generator](https://github.com/Rish200/Emotion_Based_Poetry_generator)** – Built a CNN (FER-2013) to detect emotions from facial expressions & generate poems using NLP, deployed with Streamlit.  
+</p>
 
 ---
 
-## 🧰 Skills
-- **Programming & Databases:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, OpenCV, Power BI (DAX), Data Manipulation  
-- **ML & AI:** Scikit-Learn, TensorFlow, Deep Learning, NLP  
-- **Tools:** Git, Edge TTS, Coqui TTS, Whisper, MS Office Suite  
-- **Professional:** Project Management, Research, Communication, Problem-Solving  
+## 📌 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rish200&repo=Data-Analysis&theme=tokyonight)](https://github.com/Rish200/Data-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rish200&repo=MyMLCVPortfolio&theme=tokyonight)](https://github.com/Rish200/MyMLCVPortfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rish200&repo=Emotion_Based_Poetry_generator&theme=tokyonight)](https://github.com/Rish200/Emotion_Based_Poetry_generator)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rish200&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rish200&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rish200&theme=tokyonight)  
+
+</p>
 
 ---
 
@@ -48,9 +60,8 @@
 - Data Analysis with R Programming  
 - NLP using Python  
 - Building Generative AI powered apps with Python  
-- Hands-On with Google AI Studio  
 - Getting Started with Agentic AI  
-- Advanced Excel Tutorial  
+- Hands-On with Google AI Studio  
 
 ---
 
@@ -61,17 +72,13 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rish200&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rish200&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with Me
-- 📧 Email: [roshanrishav80@gmail.com](mailto:roshanrishav80@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rishav-roshan](https://www.linkedin.com/in/rishav-roshan-188683217)  
-- 💻 GitHub: [github.com/Rish200](https://github.com/Rish200)  
+<p align="center">
+  <a href="mailto:roshanrishav80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rishav-roshan-188683217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Rish200"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-⭐️ *“Turning data into insights & AI into real-world impact.”*  
+⭐️ *“Data tells stories. AI makes them powerful.”*  
