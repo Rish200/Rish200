@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Rishav Roshan</h1>
-<h3 align="center">🚀 Data Analyst & AI/ML Enthusiast | Turning Data into Insights & AI into Impact</h3>
+<h3 align="center">🚀 Aspiring Data Scientist & AI/ML Enthusiast | Turning Data into Insights & AI into Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rish200&label=Profile%20Views&color=0e75b6&style=flat" alt="Rish200" />
